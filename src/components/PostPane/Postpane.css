@@ -1,0 +1,6 @@
+.postPaneBox{
+    background-color:white;
+    overflow-y:scroll;
+    flex:5;
+}
+
